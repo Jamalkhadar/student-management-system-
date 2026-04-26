@@ -1,1 +1,2 @@
-ECHO is on.
+functio login(username,password)
+ (log in succfull)
