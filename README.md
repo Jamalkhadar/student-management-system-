@@ -1,1 +1,2 @@
-ECHO is on.
+waxan halkan ku bilaabaytnaa project student mgn sys
+
